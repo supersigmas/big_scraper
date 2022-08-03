@@ -1,0 +1,294 @@
+
+
+Aug-03-2022 @ 15:29:48 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 15:29:48 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 15:29:48 - info: Going to make video featuring 2 streamers/games, that will end up being ~315.0 seconds long
+Aug-03-2022 @ 15:31:52 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 15:31:52 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 15:31:52 - info: Going to make video featuring 2 streamers/games, that will end up being ~315.0 seconds long
+Aug-03-2022 @ 15:32:03 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 15:32:03 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 15:32:03 - info: Going to make video featuring 2 streamers/games, that will end up being ~315.0 seconds long
+Aug-03-2022 @ 15:42:19 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 15:42:19 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 15:42:19 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Aug-03-2022 @ 16:13:29 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 16:13:29 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 16:13:29 - info: Going to make video featuring 3 streamers/games, that will end up being ~210.0 seconds long
+Aug-03-2022 @ 16:13:30 - info: Getting clips for channel Trainwreckstv
+Aug-03-2022 @ 16:13:31 - info: Getting clips for game Just Chatting
+Aug-03-2022 @ 16:13:32 - clip: Downloading clip with slug: IronicWimpyPandaJebaited-UTm66vVbKS6zDZW9.
+Aug-03-2022 @ 16:13:32 - clip: Saving 'IronicWimpyPandaJebaited-UTm66vVbKS6zDZW9' as 'IronicWimpyPandaJebaitedUTm66vVbKS6zDZW9.mp4'.
+Aug-03-2022 @ 16:13:38 - clip: IronicWimpyPandaJebaited-UTm66vVbKS6zDZW9 has been downloaded.
+
+Aug-03-2022 @ 16:13:38 - clip: Downloading clip with slug: LongStormyRadicchioCoolStoryBob-Sb_VerCbBeX-zbNa.
+Aug-03-2022 @ 16:13:38 - clip: Saving 'LongStormyRadicchioCoolStoryBob-Sb_VerCbBeX-zbNa' as 'LongStormyRadicchioCoolStoryBobSb_VerCbBeXzbNa.mp4'.
+Aug-03-2022 @ 16:13:45 - clip: LongStormyRadicchioCoolStoryBob-Sb_VerCbBeX-zbNa has been downloaded.
+
+Aug-03-2022 @ 16:13:45 - clip: Downloading clip with slug: SlipperyRoughBearUncleNox-3vAWN5NSFAgtKd4h.
+Aug-03-2022 @ 16:13:45 - clip: Saving 'SlipperyRoughBearUncleNox-3vAWN5NSFAgtKd4h' as 'SlipperyRoughBearUncleNox3vAWN5NSFAgtKd4h.mp4'.
+Aug-03-2022 @ 16:13:51 - clip: SlipperyRoughBearUncleNox-3vAWN5NSFAgtKd4h has been downloaded.
+
+Aug-03-2022 @ 16:13:51 - clip: Downloading clip with slug: OriginalSingleWoodpeckerRaccAttack-FtF6bnjiLkH5zfxh.
+Aug-03-2022 @ 16:13:51 - clip: Saving 'OriginalSingleWoodpeckerRaccAttack-FtF6bnjiLkH5zfxh' as 'OriginalSingleWoodpeckerRaccAttackFtF6bnjiLkH5zfxh.mp4'.
+Aug-03-2022 @ 16:13:56 - clip: OriginalSingleWoodpeckerRaccAttack-FtF6bnjiLkH5zfxh has been downloaded.
+
+Aug-03-2022 @ 16:13:56 - info: Downloaded 4 clips from this batch
+
+Aug-03-2022 @ 16:13:56 - clip: Downloading clip with slug: DullPrettyKangarooRaccAttack-86vWu5vHoAxbk9X9.
+Aug-03-2022 @ 16:13:56 - clip: Saving 'DullPrettyKangarooRaccAttack-86vWu5vHoAxbk9X9' as 'DullPrettyKangarooRaccAttack86vWu5vHoAxbk9X9.mp4'.
+Aug-03-2022 @ 16:14:06 - clip: DullPrettyKangarooRaccAttack-86vWu5vHoAxbk9X9 has been downloaded.
+
+Aug-03-2022 @ 16:14:06 - clip: Downloading clip with slug: DeafEasyFishTF2John-KRJT9fBl1dD0pL6d.
+Aug-03-2022 @ 16:14:06 - clip: Saving 'DeafEasyFishTF2John-KRJT9fBl1dD0pL6d' as 'DeafEasyFishTF2JohnKRJT9fBl1dD0pL6d.mp4'.
+Aug-03-2022 @ 16:14:08 - clip: DeafEasyFishTF2John-KRJT9fBl1dD0pL6d has been downloaded.
+
+Aug-03-2022 @ 16:14:08 - clip: Downloading clip with slug: ExuberantInterestingLyrebirdImGlitch-wG-dJ00-ZpooFvJj.
+Aug-03-2022 @ 16:14:08 - clip: Saving 'ExuberantInterestingLyrebirdImGlitch-wG-dJ00-ZpooFvJj' as 'ExuberantInterestingLyrebirdImGlitchwGdJ00ZpooFvJj.mp4'.
+Aug-03-2022 @ 16:14:14 - clip: ExuberantInterestingLyrebirdImGlitch-wG-dJ00-ZpooFvJj has been downloaded.
+
+Aug-03-2022 @ 16:14:15 - clip: Downloading clip with slug: VainGoodLocustGingerPower-gDAcgpLmZPZXPi2u.
+Aug-03-2022 @ 16:14:15 - clip: Saving 'VainGoodLocustGingerPower-gDAcgpLmZPZXPi2u' as 'VainGoodLocustGingerPowergDAcgpLmZPZXPi2u.mp4'.
+Aug-03-2022 @ 16:14:16 - clip: VainGoodLocustGingerPower-gDAcgpLmZPZXPi2u has been downloaded.
+
+Aug-03-2022 @ 16:14:17 - clip: Downloading clip with slug: TransparentAmazingSwallowKeyboardCat-s2bSFP450XY9uTAa.
+Aug-03-2022 @ 16:14:17 - clip: Saving 'TransparentAmazingSwallowKeyboardCat-s2bSFP450XY9uTAa' as 'TransparentAmazingSwallowKeyboardCats2bSFP450XY9uTAa.mp4'.
+Aug-03-2022 @ 16:14:22 - clip: TransparentAmazingSwallowKeyboardCat-s2bSFP450XY9uTAa has been downloaded.
+
+Aug-03-2022 @ 16:14:23 - clip: Downloading clip with slug: GentleEndearingScallionDerp-kZnPfJVPWvBefjmR.
+Aug-03-2022 @ 16:14:23 - clip: Saving 'GentleEndearingScallionDerp-kZnPfJVPWvBefjmR' as 'GentleEndearingScallionDerpkZnPfJVPWvBefjmR.mp4'.
+Aug-03-2022 @ 16:14:30 - clip: GentleEndearingScallionDerp-kZnPfJVPWvBefjmR has been downloaded.
+
+Aug-03-2022 @ 16:14:30 - info: Downloaded 6 clips from this batch
+
+Aug-03-2022 @ 16:14:30 - info: Downloaded a total of 10 clips
+Aug-03-2022 @ 16:14:30 - info: Going to render video in D:/PycharmProjects/big_scraper/clips/Aug-03-2022/eju5y
+
+Aug-03-2022 @ 16:14:32 - info: Added DeafEasyFishTF2JohnKRJT9fBl1dD0pL6d.mp4 to be rendered
+Aug-03-2022 @ 16:14:34 - info: Added DullPrettyKangarooRaccAttack86vWu5vHoAxbk9X9.mp4 to be rendered
+Aug-03-2022 @ 16:14:37 - info: Added ExuberantInterestingLyrebirdImGlitchwGdJ00ZpooFvJj.mp4 to be rendered
+Aug-03-2022 @ 16:14:39 - info: Added GentleEndearingScallionDerpkZnPfJVPWvBefjmR.mp4 to be rendered
+Aug-03-2022 @ 16:14:42 - info: Added IronicWimpyPandaJebaitedUTm66vVbKS6zDZW9.mp4 to be rendered
+Aug-03-2022 @ 16:14:44 - info: Added LongStormyRadicchioCoolStoryBobSb VerCbBeXzbNa.mp4 to be rendered
+Aug-03-2022 @ 16:14:47 - info: Added OriginalSingleWoodpeckerRaccAttackFtF6bnjiLkH5zfxh.mp4 to be rendered
+Aug-03-2022 @ 16:14:49 - info: Added SlipperyRoughBearUncleNox3vAWN5NSFAgtKd4h.mp4 to be rendered
+Aug-03-2022 @ 16:14:52 - info: Added TransparentAmazingSwallowKeyboardCats2bSFP450XY9uTAa.mp4 to be rendered
+Aug-03-2022 @ 16:14:54 - info: Added VainGoodLocustGingerPowergDAcgpLmZPZXPi2u.mp4 to be rendered
+Aug-03-2022 @ 16:19:34 - info: Video is done rendering!
+
+Aug-03-2022 @ 16:35:14 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 16:35:15 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 16:35:15 - info: Going to make video featuring 2 streamers/games, that will end up being ~315.0 seconds long
+Aug-03-2022 @ 16:35:15 - info: Getting clips for channel VALORANT
+Aug-03-2022 @ 16:35:16 - info: Getting clips for game VALORANT
+Aug-03-2022 @ 16:35:18 - clip: Downloading clip with slug: HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W.
+Aug-03-2022 @ 16:35:18 - clip: Saving 'HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W' as 'HonestHealthyWalrusAMPEnergy3Kt7MhoKSr4BCD2W.mp4'.
+Aug-03-2022 @ 16:35:30 - clip: HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W has been downloaded.
+
+Aug-03-2022 @ 16:35:30 - clip: Downloading clip with slug: ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg.
+Aug-03-2022 @ 16:35:30 - clip: Saving 'ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg' as 'ShyUninterestedDragonfruitPeteZarollTieR5O3eanciiZl1aIg.mp4'.
+Aug-03-2022 @ 16:35:35 - clip: ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg has been downloaded.
+
+Aug-03-2022 @ 16:35:35 - clip: Downloading clip with slug: YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV.
+Aug-03-2022 @ 16:35:35 - clip: Saving 'YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV' as 'YawningSteamyLyrebirdJKanStylelEY8zKefrxszjhIV.mp4'.
+Aug-03-2022 @ 16:35:39 - clip: YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV has been downloaded.
+
+Aug-03-2022 @ 16:35:40 - clip: Downloading clip with slug: BitterElegantSageBatChest-it3XOu1jeHNF1iQP.
+Aug-03-2022 @ 16:35:40 - clip: Saving 'BitterElegantSageBatChest-it3XOu1jeHNF1iQP' as 'BitterElegantSageBatChestit3XOu1jeHNF1iQP.mp4'.
+Aug-03-2022 @ 16:35:45 - clip: BitterElegantSageBatChest-it3XOu1jeHNF1iQP has been downloaded.
+
+Aug-03-2022 @ 16:35:45 - clip: Downloading clip with slug: AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3.
+Aug-03-2022 @ 16:35:45 - clip: Saving 'AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3' as 'AgitatedGrotesquePepperNerfBlueBlaster3LCv4LgALgC6_0U3.mp4'.
+Aug-03-2022 @ 16:35:50 - clip: AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3 has been downloaded.
+
+Aug-03-2022 @ 16:35:51 - clip: Downloading clip with slug: SplendidRenownedArugulaJonCarnage-kbswc3E4zwK9zgcO.
+Aug-03-2022 @ 16:35:51 - clip: Saving 'SplendidRenownedArugulaJonCarnage-kbswc3E4zwK9zgcO' as 'SplendidRenownedArugulaJonCarnagekbswc3E4zwK9zgcO.mp4'.
+Aug-03-2022 @ 16:35:54 - clip: SplendidRenownedArugulaJonCarnage-kbswc3E4zwK9zgcO has been downloaded.
+
+Aug-03-2022 @ 16:35:54 - clip: Downloading clip with slug: MoistRockyConsoleJKanStyle-pIc-Q3refvW13nTp.
+Aug-03-2022 @ 16:35:54 - clip: Saving 'MoistRockyConsoleJKanStyle-pIc-Q3refvW13nTp' as 'MoistRockyConsoleJKanStylepIcQ3refvW13nTp.mp4'.
+Aug-03-2022 @ 16:35:58 - clip: MoistRockyConsoleJKanStyle-pIc-Q3refvW13nTp has been downloaded.
+
+Aug-03-2022 @ 16:35:59 - clip: Downloading clip with slug: ExuberantTallMuleDoggo-6Ni32HxVtYk7RCWc.
+Aug-03-2022 @ 16:35:59 - clip: Saving 'ExuberantTallMuleDoggo-6Ni32HxVtYk7RCWc' as 'ExuberantTallMuleDoggo6Ni32HxVtYk7RCWc.mp4'.
+Aug-03-2022 @ 16:36:02 - clip: ExuberantTallMuleDoggo-6Ni32HxVtYk7RCWc has been downloaded.
+
+Aug-03-2022 @ 16:36:02 - clip: Downloading clip with slug: NiceRealMinkRiPepperonis-js8R9JNf1r1D32rD.
+Aug-03-2022 @ 16:36:02 - clip: Saving 'NiceRealMinkRiPepperonis-js8R9JNf1r1D32rD' as 'NiceRealMinkRiPepperonisjs8R9JNf1r1D32rD.mp4'.
+Aug-03-2022 @ 16:36:06 - clip: NiceRealMinkRiPepperonis-js8R9JNf1r1D32rD has been downloaded.
+
+Aug-03-2022 @ 16:36:06 - clip: Downloading clip with slug: IcyMagnificentPuddingOneHand-MomeijtoVwrzR8WC.
+Aug-03-2022 @ 16:36:06 - clip: Saving 'IcyMagnificentPuddingOneHand-MomeijtoVwrzR8WC' as 'IcyMagnificentPuddingOneHandMomeijtoVwrzR8WC.mp4'.
+Aug-03-2022 @ 16:36:11 - clip: IcyMagnificentPuddingOneHand-MomeijtoVwrzR8WC has been downloaded.
+
+Aug-03-2022 @ 16:36:11 - clip: Downloading clip with slug: RelatedGracefulLettucePMSTwin-EAibsaESKBLDUYWs.
+Aug-03-2022 @ 16:36:11 - clip: Saving 'RelatedGracefulLettucePMSTwin-EAibsaESKBLDUYWs' as 'RelatedGracefulLettucePMSTwinEAibsaESKBLDUYWs.mp4'.
+Aug-03-2022 @ 16:36:15 - clip: RelatedGracefulLettucePMSTwin-EAibsaESKBLDUYWs has been downloaded.
+
+Aug-03-2022 @ 16:36:15 - clip: Downloading clip with slug: RacyCharmingHamPJSugar-cx-rnScesY7tBTfD.
+Aug-03-2022 @ 16:36:15 - clip: Saving 'RacyCharmingHamPJSugar-cx-rnScesY7tBTfD' as 'RacyCharmingHamPJSugarcxrnScesY7tBTfD.mp4'.
+Aug-03-2022 @ 16:36:19 - clip: RacyCharmingHamPJSugar-cx-rnScesY7tBTfD has been downloaded.
+
+Aug-03-2022 @ 16:36:20 - clip: Downloading clip with slug: TameBillowingLampKappaPride-X1tOIFUeaS9q17pi.
+Aug-03-2022 @ 16:36:20 - clip: Saving 'TameBillowingLampKappaPride-X1tOIFUeaS9q17pi' as 'TameBillowingLampKappaPrideX1tOIFUeaS9q17pi.mp4'.
+Aug-03-2022 @ 16:36:24 - clip: TameBillowingLampKappaPride-X1tOIFUeaS9q17pi has been downloaded.
+
+Aug-03-2022 @ 16:36:25 - clip: Downloading clip with slug: EvilTubularGerbilPhilosoraptor-WwcV-2rfT-TQgflo.
+Aug-03-2022 @ 16:36:25 - clip: Saving 'EvilTubularGerbilPhilosoraptor-WwcV-2rfT-TQgflo' as 'EvilTubularGerbilPhilosoraptorWwcV2rfTTQgflo.mp4'.
+Aug-03-2022 @ 16:36:29 - clip: EvilTubularGerbilPhilosoraptor-WwcV-2rfT-TQgflo has been downloaded.
+
+Aug-03-2022 @ 16:36:29 - info: Downloaded 14 clips from this batch
+
+Aug-03-2022 @ 16:36:29 - clip: Downloading clip with slug: AstuteElegantHyenaSaltBae-qpOnjnCFygvOTVYv.
+Aug-03-2022 @ 16:36:29 - clip: Saving 'AstuteElegantHyenaSaltBae-qpOnjnCFygvOTVYv' as 'AstuteElegantHyenaSaltBaeqpOnjnCFygvOTVYv.mp4'.
+Aug-03-2022 @ 16:36:33 - clip: AstuteElegantHyenaSaltBae-qpOnjnCFygvOTVYv has been downloaded.
+
+Aug-03-2022 @ 16:36:33 - clip: Downloading clip with slug: FriendlyHedonisticBananaFreakinStinkin-Gz83hGM8cltB_YiB.
+Aug-03-2022 @ 16:36:33 - clip: Saving 'FriendlyHedonisticBananaFreakinStinkin-Gz83hGM8cltB_YiB' as 'FriendlyHedonisticBananaFreakinStinkinGz83hGM8cltB_YiB.mp4'.
+Aug-03-2022 @ 16:36:37 - clip: FriendlyHedonisticBananaFreakinStinkin-Gz83hGM8cltB_YiB has been downloaded.
+
+Aug-03-2022 @ 16:36:37 - clip: Downloading clip with slug: BitterFuriousVultureDancingBanana-gMqDAxgYt8dsyWWF.
+Aug-03-2022 @ 16:36:37 - clip: Saving 'BitterFuriousVultureDancingBanana-gMqDAxgYt8dsyWWF' as 'BitterFuriousVultureDancingBananagMqDAxgYt8dsyWWF.mp4'.
+Aug-03-2022 @ 16:36:42 - clip: BitterFuriousVultureDancingBanana-gMqDAxgYt8dsyWWF has been downloaded.
+
+Aug-03-2022 @ 16:36:42 - clip: Downloading clip with slug: HorribleLightAppleCopyThis-YS4KLGdMkunXc1wZ.
+Aug-03-2022 @ 16:36:42 - clip: Saving 'HorribleLightAppleCopyThis-YS4KLGdMkunXc1wZ' as 'HorribleLightAppleCopyThisYS4KLGdMkunXc1wZ.mp4'.
+Aug-03-2022 @ 16:36:46 - clip: HorribleLightAppleCopyThis-YS4KLGdMkunXc1wZ has been downloaded.
+
+Aug-03-2022 @ 16:36:47 - clip: Downloading clip with slug: AbstemiousBlindingLadiesPanicVis-gQ1Pqf345c72uV8A.
+Aug-03-2022 @ 16:36:47 - clip: Saving 'AbstemiousBlindingLadiesPanicVis-gQ1Pqf345c72uV8A' as 'AbstemiousBlindingLadiesPanicVisgQ1Pqf345c72uV8A.mp4'.
+Aug-03-2022 @ 16:36:51 - clip: AbstemiousBlindingLadiesPanicVis-gQ1Pqf345c72uV8A has been downloaded.
+
+Aug-03-2022 @ 16:36:51 - clip: Downloading clip with slug: UglyWanderingCodHeyGuys-38DrFrQFz_eMeKsm.
+Aug-03-2022 @ 16:36:51 - clip: Saving 'UglyWanderingCodHeyGuys-38DrFrQFz_eMeKsm' as 'UglyWanderingCodHeyGuys38DrFrQFz_eMeKsm.mp4'.
+Aug-03-2022 @ 16:36:56 - clip: UglyWanderingCodHeyGuys-38DrFrQFz_eMeKsm has been downloaded.
+
+Aug-03-2022 @ 16:36:56 - clip: Downloading clip with slug: CourageousEnticingMartenDendiFace-8hSEXr0Qp_ZVt_Xo.
+Aug-03-2022 @ 16:36:56 - clip: Saving 'CourageousEnticingMartenDendiFace-8hSEXr0Qp_ZVt_Xo' as 'CourageousEnticingMartenDendiFace8hSEXr0Qp_ZVt_Xo.mp4'.
+Aug-03-2022 @ 16:37:00 - clip: CourageousEnticingMartenDendiFace-8hSEXr0Qp_ZVt_Xo has been downloaded.
+
+Aug-03-2022 @ 16:37:01 - clip: Downloading clip with slug: SwissOpenWoodpeckerKAPOW-d4T_Hw_hja3Csmf-.
+Aug-03-2022 @ 16:37:01 - clip: Saving 'SwissOpenWoodpeckerKAPOW-d4T_Hw_hja3Csmf-' as 'SwissOpenWoodpeckerKAPOWd4T_Hw_hja3Csmf.mp4'.
+Aug-03-2022 @ 16:37:04 - clip: SwissOpenWoodpeckerKAPOW-d4T_Hw_hja3Csmf- has been downloaded.
+
+Aug-03-2022 @ 16:37:04 - clip: Downloading clip with slug: ResoluteDoubtfulAlmondCclamChamp-ABVdNygvx-JHiFHE.
+Aug-03-2022 @ 16:37:04 - clip: Saving 'ResoluteDoubtfulAlmondCclamChamp-ABVdNygvx-JHiFHE' as 'ResoluteDoubtfulAlmondCclamChampABVdNygvxJHiFHE.mp4'.
+Aug-03-2022 @ 16:37:08 - clip: ResoluteDoubtfulAlmondCclamChamp-ABVdNygvx-JHiFHE has been downloaded.
+
+Aug-03-2022 @ 16:37:08 - clip: Downloading clip with slug: BashfulSpotlessKittenTwitchRaid-fjTNe2EuEptX4-OJ.
+Aug-03-2022 @ 16:37:08 - clip: Saving 'BashfulSpotlessKittenTwitchRaid-fjTNe2EuEptX4-OJ' as 'BashfulSpotlessKittenTwitchRaidfjTNe2EuEptX4OJ.mp4'.
+Aug-03-2022 @ 16:37:15 - clip: BashfulSpotlessKittenTwitchRaid-fjTNe2EuEptX4-OJ has been downloaded.
+
+Aug-03-2022 @ 16:37:16 - clip: Downloading clip with slug: AgreeableTriangularPanBigBrother-qxrVHBSl8hwb1woQ.
+Aug-03-2022 @ 16:37:16 - clip: Saving 'AgreeableTriangularPanBigBrother-qxrVHBSl8hwb1woQ' as 'AgreeableTriangularPanBigBrotherqxrVHBSl8hwb1woQ.mp4'.
+Aug-03-2022 @ 16:37:36 - clip: AgreeableTriangularPanBigBrother-qxrVHBSl8hwb1woQ has been downloaded.
+
+Aug-03-2022 @ 16:37:37 - clip: Downloading clip with slug: RespectfulClearBaconThisIsSparta-FGqoBYHTkb5nhq9E.
+Aug-03-2022 @ 16:37:37 - clip: Saving 'RespectfulClearBaconThisIsSparta-FGqoBYHTkb5nhq9E' as 'RespectfulClearBaconThisIsSpartaFGqoBYHTkb5nhq9E.mp4'.
+Aug-03-2022 @ 16:37:42 - clip: RespectfulClearBaconThisIsSparta-FGqoBYHTkb5nhq9E has been downloaded.
+
+Aug-03-2022 @ 16:37:42 - clip: Downloading clip with slug: AwkwardSucculentTortoiseMau5-sC5zH3z7gOzmNUwU.
+Aug-03-2022 @ 16:37:42 - clip: Saving 'AwkwardSucculentTortoiseMau5-sC5zH3z7gOzmNUwU' as 'AwkwardSucculentTortoiseMau5sC5zH3z7gOzmNUwU.mp4'.
+Aug-03-2022 @ 16:37:46 - clip: AwkwardSucculentTortoiseMau5-sC5zH3z7gOzmNUwU has been downloaded.
+
+Aug-03-2022 @ 16:37:46 - info: Downloaded 13 clips from this batch
+
+Aug-03-2022 @ 16:37:46 - info: Downloaded a total of 27 clips
+Aug-03-2022 @ 16:37:46 - info: Going to render video in D:/PycharmProjects/big_scraper/clips/Aug-03-2022/sc4be
+
+Aug-03-2022 @ 16:37:48 - info: Added AbstemiousBlindingLadiesPanicVisgQ1Pqf345c72uV8A.mp4 to be rendered
+Aug-03-2022 @ 16:37:50 - info: Added AgitatedGrotesquePepperNerfBlueBlaster3LCv4LgALgC6 0U3.mp4 to be rendered
+Aug-03-2022 @ 16:37:53 - info: Added AgreeableTriangularPanBigBrotherqxrVHBSl8hwb1woQ.mp4 to be rendered
+Aug-03-2022 @ 16:37:55 - info: Added AstuteElegantHyenaSaltBaeqpOnjnCFygvOTVYv.mp4 to be rendered
+Aug-03-2022 @ 16:37:58 - info: Added AwkwardSucculentTortoiseMau5sC5zH3z7gOzmNUwU.mp4 to be rendered
+Aug-03-2022 @ 16:38:00 - info: Added BashfulSpotlessKittenTwitchRaidfjTNe2EuEptX4OJ.mp4 to be rendered
+Aug-03-2022 @ 16:38:03 - info: Added BitterElegantSageBatChestit3XOu1jeHNF1iQP.mp4 to be rendered
+Aug-03-2022 @ 16:38:05 - info: Added BitterFuriousVultureDancingBananagMqDAxgYt8dsyWWF.mp4 to be rendered
+Aug-03-2022 @ 16:38:08 - info: Added CourageousEnticingMartenDendiFace8hSEXr0Qp ZVt Xo.mp4 to be rendered
+Aug-03-2022 @ 16:38:10 - info: Added EvilTubularGerbilPhilosoraptorWwcV2rfTTQgflo.mp4 to be rendered
+Aug-03-2022 @ 16:38:13 - info: Added ExuberantTallMuleDoggo6Ni32HxVtYk7RCWc.mp4 to be rendered
+Aug-03-2022 @ 16:38:15 - info: Added FriendlyHedonisticBananaFreakinStinkinGz83hGM8cltB YiB.mp4 to be rendered
+Aug-03-2022 @ 16:38:18 - info: Added HonestHealthyWalrusAMPEnergy3Kt7MhoKSr4BCD2W.mp4 to be rendered
+Aug-03-2022 @ 16:38:20 - info: Added HorribleLightAppleCopyThisYS4KLGdMkunXc1wZ.mp4 to be rendered
+Aug-03-2022 @ 16:38:23 - info: Added IcyMagnificentPuddingOneHandMomeijtoVwrzR8WC.mp4 to be rendered
+Aug-03-2022 @ 16:38:25 - info: Added MoistRockyConsoleJKanStylepIcQ3refvW13nTp.mp4 to be rendered
+Aug-03-2022 @ 16:38:28 - info: Added NiceRealMinkRiPepperonisjs8R9JNf1r1D32rD.mp4 to be rendered
+Aug-03-2022 @ 16:38:30 - info: Added RacyCharmingHamPJSugarcxrnScesY7tBTfD.mp4 to be rendered
+Aug-03-2022 @ 16:38:33 - info: Added RelatedGracefulLettucePMSTwinEAibsaESKBLDUYWs.mp4 to be rendered
+Aug-03-2022 @ 16:38:35 - info: Added ResoluteDoubtfulAlmondCclamChampABVdNygvxJHiFHE.mp4 to be rendered
+Aug-03-2022 @ 16:38:38 - info: Added RespectfulClearBaconThisIsSpartaFGqoBYHTkb5nhq9E.mp4 to be rendered
+Aug-03-2022 @ 16:38:41 - info: Added ShyUninterestedDragonfruitPeteZarollTieR5O3eanciiZl1aIg.mp4 to be rendered
+Aug-03-2022 @ 16:38:43 - info: Added SplendidRenownedArugulaJonCarnagekbswc3E4zwK9zgcO.mp4 to be rendered
+Aug-03-2022 @ 16:38:46 - info: Added SwissOpenWoodpeckerKAPOWd4T Hw hja3Csmf.mp4 to be rendered
+Aug-03-2022 @ 16:38:48 - info: Added TameBillowingLampKappaPrideX1tOIFUeaS9q17pi.mp4 to be rendered
+Aug-03-2022 @ 16:38:51 - info: Added UglyWanderingCodHeyGuys38DrFrQFz eMeKsm.mp4 to be rendered
+Aug-03-2022 @ 16:38:53 - info: Added YawningSteamyLyrebirdJKanStylelEY8zKefrxszjhIV.mp4 to be rendered
+Aug-03-2022 @ 16:54:43 - info: Video is done rendering!
+
+Aug-03-2022 @ 16:55:38 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 16:55:39 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 16:55:39 - info: Going to make video featuring 1 streamers/games, that will end up being ~630.0 seconds long
+Aug-03-2022 @ 16:55:39 - info: Getting clips for channel VALORANT
+Aug-03-2022 @ 16:55:40 - clip: Downloading clip with slug: HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W.
+Aug-03-2022 @ 16:55:40 - clip: Saving 'HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W' as 'HonestHealthyWalrusAMPEnergy3Kt7MhoKSr4BCD2W.mp4'.
+Aug-03-2022 @ 16:55:43 - clip: HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W has been downloaded.
+
+Aug-03-2022 @ 16:55:43 - clip: Downloading clip with slug: ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg.
+Aug-03-2022 @ 16:55:43 - clip: Saving 'ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg' as 'ShyUninterestedDragonfruitPeteZarollTieR5O3eanciiZl1aIg.mp4'.
+Aug-03-2022 @ 16:55:45 - clip: ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg has been downloaded.
+
+Aug-03-2022 @ 16:55:45 - clip: Downloading clip with slug: YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV.
+Aug-03-2022 @ 16:55:45 - clip: Saving 'YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV' as 'YawningSteamyLyrebirdJKanStylelEY8zKefrxszjhIV.mp4'.
+Aug-03-2022 @ 16:55:47 - clip: YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV has been downloaded.
+
+Aug-03-2022 @ 16:55:48 - clip: Downloading clip with slug: BitterElegantSageBatChest-it3XOu1jeHNF1iQP.
+Aug-03-2022 @ 16:55:48 - clip: Saving 'BitterElegantSageBatChest-it3XOu1jeHNF1iQP' as 'BitterElegantSageBatChestit3XOu1jeHNF1iQP.mp4'.
+Aug-03-2022 @ 16:55:56 - clip: BitterElegantSageBatChest-it3XOu1jeHNF1iQP has been downloaded.
+
+Aug-03-2022 @ 16:55:56 - clip: Downloading clip with slug: AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3.
+Aug-03-2022 @ 16:55:56 - clip: Saving 'AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3' as 'AgitatedGrotesquePepperNerfBlueBlaster3LCv4LgALgC6_0U3.mp4'.
+Aug-03-2022 @ 16:55:59 - clip: AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3 has been downloaded.
+
+Aug-03-2022 @ 16:55:59 - clip: Downloading clip with slug: MoistRockyConsoleJKanStyle-pIc-Q3refvW13nTp.
+Aug-03-2022 @ 16:55:59 - clip: Saving 'MoistRockyConsoleJKanStyle-pIc-Q3refvW13nTp' as 'MoistRockyConsoleJKanStylepIcQ3refvW13nTp.mp4'.
+Aug-03-2022 @ 16:56:01 - clip: MoistRockyConsoleJKanStyle-pIc-Q3refvW13nTp has been downloaded.
+
+Aug-03-2022 @ 16:56:01 - clip: Downloading clip with slug: SplendidRenownedArugulaJonCarnage-kbswc3E4zwK9zgcO.
+Aug-03-2022 @ 16:56:01 - clip: Saving 'SplendidRenownedArugulaJonCarnage-kbswc3E4zwK9zgcO' as 'SplendidRenownedArugulaJonCarnagekbswc3E4zwK9zgcO.mp4'.
+Aug-03-2022 @ 16:56:03 - clip: SplendidRenownedArugulaJonCarnage-kbswc3E4zwK9zgcO has been downloaded.
+
+Aug-03-2022 @ 17:00:47 - info: You're running the latest version of twitchtube at 1.6.6
+Aug-03-2022 @ 17:00:48 - info: You're running the latest version of opplast at 1.0.14
+Aug-03-2022 @ 17:00:48 - info: Going to make video featuring 1 streamers/games, that will end up being ~120.0 seconds long
+Aug-03-2022 @ 17:00:48 - info: Getting clips for channel VALORANT
+Aug-03-2022 @ 17:00:50 - clip: Downloading clip with slug: HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W.
+Aug-03-2022 @ 17:00:50 - clip: Saving 'HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W' as 'HonestHealthyWalrusAMPEnergy3Kt7MhoKSr4BCD2W.mp4'.
+Aug-03-2022 @ 17:00:52 - clip: HonestHealthyWalrusAMPEnergy-3Kt7MhoKSr4BCD2W has been downloaded.
+
+Aug-03-2022 @ 17:00:52 - clip: Downloading clip with slug: ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg.
+Aug-03-2022 @ 17:00:52 - clip: Saving 'ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg' as 'ShyUninterestedDragonfruitPeteZarollTieR5O3eanciiZl1aIg.mp4'.
+Aug-03-2022 @ 17:00:54 - clip: ShyUninterestedDragonfruitPeteZarollTie-R5O3eanciiZl1aIg has been downloaded.
+
+Aug-03-2022 @ 17:00:54 - clip: Downloading clip with slug: YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV.
+Aug-03-2022 @ 17:00:54 - clip: Saving 'YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV' as 'YawningSteamyLyrebirdJKanStylelEY8zKefrxszjhIV.mp4'.
+Aug-03-2022 @ 17:00:56 - clip: YawningSteamyLyrebirdJKanStyle-lEY8zKefrxszjhIV has been downloaded.
+
+Aug-03-2022 @ 17:00:57 - clip: Downloading clip with slug: BitterElegantSageBatChest-it3XOu1jeHNF1iQP.
+Aug-03-2022 @ 17:00:57 - clip: Saving 'BitterElegantSageBatChest-it3XOu1jeHNF1iQP' as 'BitterElegantSageBatChestit3XOu1jeHNF1iQP.mp4'.
+Aug-03-2022 @ 17:00:59 - clip: BitterElegantSageBatChest-it3XOu1jeHNF1iQP has been downloaded.
+
+Aug-03-2022 @ 17:01:00 - clip: Downloading clip with slug: AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3.
+Aug-03-2022 @ 17:01:00 - clip: Saving 'AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3' as 'AgitatedGrotesquePepperNerfBlueBlaster3LCv4LgALgC6_0U3.mp4'.
+Aug-03-2022 @ 17:01:02 - clip: AgitatedGrotesquePepperNerfBlueBlaster-3LCv4LgALgC6_0U3 has been downloaded.
+
+Aug-03-2022 @ 17:01:02 - info: Downloaded 5 clips from this batch
+
+Aug-03-2022 @ 17:01:02 - info: Downloaded a total of 5 clips
+Aug-03-2022 @ 17:01:02 - info: Going to render video in D:/PycharmProjects/big_scraper/clips/Aug-03-2022/l0004
+
+Aug-03-2022 @ 17:01:04 - info: Added AgitatedGrotesquePepperNerfBlueBlaster3LCv4LgALgC6 0U3.mp4 to be rendered
+Aug-03-2022 @ 17:01:07 - info: Added BitterElegantSageBatChestit3XOu1jeHNF1iQP.mp4 to be rendered
+Aug-03-2022 @ 17:01:09 - info: Added HonestHealthyWalrusAMPEnergy3Kt7MhoKSr4BCD2W.mp4 to be rendered
+Aug-03-2022 @ 17:01:12 - info: Added ShyUninterestedDragonfruitPeteZarollTieR5O3eanciiZl1aIg.mp4 to be rendered
+Aug-03-2022 @ 17:01:14 - info: Added YawningSteamyLyrebirdJKanStylelEY8zKefrxszjhIV.mp4 to be rendered
+Aug-03-2022 @ 17:04:33 - info: Video is done rendering!

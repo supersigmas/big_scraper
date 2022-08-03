@@ -1,3 +1,8 @@
 pandas~=1.4.3
 langdetect~=1.0.9
 snscrape~=0.4.3.20220106
+moviepy==1.0.3
+colorama~=0.4.4
+selenium<4
+opplast~=1.0.7
+requests~=2.26.0
